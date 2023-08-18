@@ -31,7 +31,7 @@
             <div class="col-lg-3 d-none d-lg-block">
                 <a href="{{route('home')}}" class="text-decoration-none">
                     <h1 class="m-0 display-5 font-weight-semi-bold">
-                    <img src="{{ asset('imagens/flix.jpg') }}"  style="width: 250px;">
+                    <img src="asset('imagens/flix.jpg')"  style="width: 250px;">
                 </h1>
                 </a>
             </div>

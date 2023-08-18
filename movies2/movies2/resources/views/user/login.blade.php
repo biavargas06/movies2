@@ -59,19 +59,19 @@ input[type="password"] {
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 input[type="email"] {
-    width: 50%; 
+    width: 50%;
 }
 
 input[type="password"] {
-    width: 50%; 
+    width: 50%;
 }
 
 input[type="submit"] {
-    background-color: #B392AC;
+    background-color: #FBF59D
     color: #fff;
     padding: 12px 30px;
     border: none;
